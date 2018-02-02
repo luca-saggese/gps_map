@@ -1,0 +1,18 @@
+{
+  "name": "ald_map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "linereader": "^1.1.0",
+    "pngjs-draw": "0.0.6",
+    "pngjs2": "^2.0.0",
+    "luca-saggese/staticmap": "0.0.3"
+  }
+}
